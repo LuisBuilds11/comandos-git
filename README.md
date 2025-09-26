@@ -37,3 +37,5 @@ Envía los commits locales al repositorio remoto (por defecto al `origin` y rama
 12. `git commit -am "mensaje"`
 Hace `git add` y `git commit` en un solo paso,  
 **pero solo para archivos ya versionados** (no incluye archivos nuevos).
+
+13. `git clone --branch nombre-de-la-rama --single-branch https://github.com/usuario/repositorio.git`
